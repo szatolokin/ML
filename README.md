@@ -3,6 +3,7 @@ My C#-realization ML methods
 Features list:
 
 - separation data and models
+    - data / model libraries
 - linear (polynomial) regression  model:
     - select polynomial degree
     - calc quality's functional
