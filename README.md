@@ -1,4 +1,4 @@
-My C#-realization ML methods.
+My C#-realization ML methods
 
 Features list:
 
